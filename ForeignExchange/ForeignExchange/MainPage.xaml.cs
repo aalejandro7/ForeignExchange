@@ -11,9 +11,11 @@ namespace ForeignExchange
     {
         public MainPage()
         {
+
             InitializeComponent();
 
             ConvertButton.Clicked += ConvertButton_Clicked;
+            
 
         }
 
